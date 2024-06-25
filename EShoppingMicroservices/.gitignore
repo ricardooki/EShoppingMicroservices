@@ -1,0 +1,37 @@
+# Arquivos de compilação gerados
+bin/
+obj/
+
+# Arquivos temporários gerados pela IDE
+*.user
+*.suo
+*.cache
+*.log
+
+# Arquivos de backup da IDE
+[Tt]humbs.db
+*.bak
+
+# Arquivos de configuração de IDEs específicas (exemplo para Visual Studio)
+.vs/
+
+# Pacotes NuGet
+packages/
+
+# Arquivos de configuração do Visual Studio
+*.vscode/
+*.sln.docstates
+
+# Arquivos de configuração do Rider (IDE da JetBrains)
+.idea/
+
+# Arquivos de build específicos de ferramentas de build (por exemplo, msbuild)
+*.dll
+*.exe
+
+# Arquivos de registro
+*.log
+
+# Arquivos de configuração sensíveis
+*.config
+*.publishsettings
